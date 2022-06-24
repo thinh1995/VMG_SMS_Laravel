@@ -1,6 +1,6 @@
 <?php
 
-namespace Lucifer\VmgSmsLaravel;
+namespace Lucifer293\VmgSmsLaravel;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Foundation\Application as LaravelApplication;

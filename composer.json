@@ -1,9 +1,9 @@
 {
-    "name": "lucifer/vmg_sms_laravel",
+    "name": "lucifer293/vmg_sms_laravel",
     "type": "composer-plugin",
     "autoload": {
         "psr-4": {
-            "Lucifer\\VmgSmsLaravel\\": "src/"
+            "Lucifer293\\VmgSmsLaravel\\": "src/"
         }
     },
     "authors": [

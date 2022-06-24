@@ -1,6 +1,6 @@
 <?php
 
-namespace Lucifer\VmgSmsLaravel\Facades;
+namespace Lucifer293\VmgSmsLaravel\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

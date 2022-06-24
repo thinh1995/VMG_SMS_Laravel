@@ -1,6 +1,6 @@
 <?php
 
-namespace Lucifer\VmgSmsLaravel;
+namespace Lucifer293\VmgSmsLaravel;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\RequestOptions;
